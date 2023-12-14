@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "742667079284",
+    "firebase_url": "https://smartfin-7a8db-default-rtdb.firebaseio.com",
+    "project_id": "smartfin-7a8db",
+    "storage_bucket": "smartfin-7a8db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742667079284:android:bf8035a622880548814b21",
+        "android_client_info": {
+          "package_name": "com.example.smartfin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdAsMQy03i1kZL8P_UwcZJEaMvZlN-xYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
